@@ -5,5 +5,4 @@ dest = "/opt/rancher/ssl/ca.crt"
 owner = "root"
 mode = "0644"
 keys = [
-  "/ca.crt",
 ]
